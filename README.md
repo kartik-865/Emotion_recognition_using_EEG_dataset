@@ -153,6 +153,3 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 
 See the [LICENSE](./LICENSE) file for the full license text.
 
----
-
-*Developed by Kartik Gahlot. For questions or collaboration, please open an issue on this repository.*
